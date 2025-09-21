@@ -11,8 +11,14 @@
 # production
 /build
 
-# misc
+# OS generated files
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# misc
 .env.local
 .env.development.local
 .env.test.local
